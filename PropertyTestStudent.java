@@ -1,3 +1,22 @@
+/*
+ * Class: CMSC203 
+ * Instructor:Shah Madhvi
+ * Description: This Property Management application allows users to manage 
+ * and analyze rental properties through a graphical interface built with JavaFX. 
+ * It supports adding, viewing, and calculating property details such as rent 
+ * and plot size, demonstrating object-oriented design and GUI development.
+ * Due: 10/27/2024
+ * Platform/compiler: Eclipse
+ * I pledge that I have completed the programming 
+assignment independently. 
+ * I have not copied the code from a student or any source. 
+ * I have not given my code to any student.
+ * Print your Name here:Ray Leika Joseph
+*/
+
+
+
+
 import static org.junit.Assert.*;
 import org.junit.Test;
 
